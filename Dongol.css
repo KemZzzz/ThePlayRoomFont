@@ -1,12 +1,12 @@
 @font-face {
-font-family: "Dongol";
+font-family: "Dongol-Regular";
 font-style: normal;
 src: url(Dongol-Regular.ttf) format("ttf");
 font-display: auto;
 }
 
 @font-face {
-font-family: "Dongol";
+font-family: "Dongol-Regular";
 font-style: normal;
 font-weight: 700;
 src: url(Dongol-Regular.ttf) format("truetype");
@@ -16,7 +16,7 @@ U+FEFF, U+FFFD;
 }
 
 body {
-font-family: "Dongol", cursive;
+font-family: "Dongol-Regular", cursive;
 text-align: center;
 }
 
